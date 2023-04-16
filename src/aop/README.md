@@ -1,0 +1,2 @@
+1、c++11, 14 ,17
+https://blog.csdn.net/m0_50945504/article/details/128047273?spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-3-128047273-blog-118520816.235%5Ev27%5Epc_relevant_multi_platform_whitelistv3&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-3-128047273-blog-118520816.235%5Ev27%5Epc_relevant_multi_platform_whitelistv3&utm_relevant_index=4
